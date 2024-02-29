@@ -47,18 +47,18 @@ const { smd, Config,smdBuffer,  prefix } = require('../lib')
 
 var surl = 'https://github.com/SuhailTechInfo/Secktor-bot' // Source URL
 const number = '923184474176'
-var name = ' Suhail Tech'
+var name = ' 𝙹𝙾𝚁𝙳𝙰𝙽 𝙹𝙾𝙴𝙻𝚂𝚃𝙰𝚁 🤖'
 var body = '𝑇𝛩𝑈𝐶𝛨 𝛨𝛯𝑅𝛯'
 var image = 'https://telegra.ph/file/1e60489705c851f74b55e.jpg'
 let text = `╭═══ ━ ━ ━ ━ • ━ ━ ━ ━ ═══♡᭄
 │       「 𝗠𝗬 𝗜𝗡𝗧𝗥𝗢 」
-│ Name      : sυнαɪʟ ᴛᴇᴄʜ ɪиғօ
-│ Place       : ʟαнᴏʀᴇ ᴘᴋ
-│ Gender    :  ᴍᴀʟᴇ
-│ Age          : 22_
-│ Phone     : wa.me/923184474176
-│ Youtube   : Youtube.com/c/SuhailTechInfo
-│ Status     : ɢᴀᴍᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ
+│ Name      : 𝙹𝙾𝚁𝙳𝙰𝙽 𝙹𝙾𝙴𝙻𝚂𝚃𝙰𝚁
+│ Place       : 𝙻𝙰𝙶𝙾𝚂 𝙽𝙶
+│ Gender    :  𝙼𝙰𝙻𝙴 
+│ Age          : 18_
+│ Phone     : wa.me/2349054039891
+│ Youtube   : 
+│ Status     : 𝙻𝙸𝙵𝙴 𝚂𝙲𝙸𝙴𝙽𝚃𝙸𝚂𝚃
 ╰═══ ━ ━ ━ ━ • ━ ━ ━ ━ ═══♡᭄`
 
 
