@@ -42,7 +42,7 @@ CURRENTLY RUNNING ON BETA VERSION!!
 **/
 
 
-let antiCallMessage = process.env.ANTICALL_MESSAGE ||  "\`\`\`Beep! Did I scare you? 🤖\n\n\tCall declined automatically\n\n For alternative assistance, please leave a message and my owner would respond soon. Oh! And don't try to call again because I'll do the same thing. Dang I love my job🕷️\n\n\nPowered by 𝙹𝙾𝚁𝙳𝙰𝙽-𝙹𝙾𝙴𝙻𝚂𝚃𝙰𝚁\`\`\`" ;
+let antiCallMessage = process.env.ANTICALL_MESSAGE ||  "\`\`\`🕸𝔹𝕖𝕖𝕡🕸\n\n\t𝕀 𝔸𝕄 𝕄𝕀𝕃𝔼𝕊🕷, 𝔸ℕ 𝔸𝕌𝕋𝕆𝕄𝔸𝕋𝔼𝔻 𝔸𝕊𝕊𝕀𝕊𝕋𝔸ℕ𝕋\n\nℝ𝔼𝔾ℝ𝔼𝕋𝕋𝔸𝔹𝕃𝕐, 𝕄𝕐 𝕆𝕎ℕ𝔼ℝ 𝕀𝕊 𝕌ℕ𝔸𝕍𝔸𝕀𝕃𝔸𝔹𝕃𝔼 𝔽𝕆ℝ ℂ𝔸𝕃𝕃𝕊 ℙℝ𝔼𝕊𝔼ℕ𝕋𝕃𝕐. 𝕂𝕀ℕ𝔻𝕃𝕐 𝕃𝔼𝔸𝕍𝔼 𝔸 𝕄𝔼𝕊𝕊𝔸𝔾𝔼 𝔽𝕆ℝ 𝔸 𝔽𝕆𝕃𝕃𝕆𝕎 𝕌ℙ ℝ𝔼𝕊ℙ𝕆ℕ𝕊𝔼 \n\n\nℙ𝕆𝕎𝔼ℝ𝔼𝔻 𝔹𝕐 𝕁𝕆ℝ𝔻𝔸ℕ-𝕁𝕆𝔼𝕃𝕊𝕋𝔸ℝ\`\`\`" ;
 
 
 
