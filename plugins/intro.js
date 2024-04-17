@@ -45,21 +45,23 @@ CURRENTLY RUNNING ON BETA VERSION!!
 const { smd, Config,smdBuffer,  prefix } = require('../lib')
 
 
-var surl = 'https://github.com/SuhailTechInfo/Secktor-bot' // Source URL
-const number = '923184474176'
-var name = ' 𝙹𝙾𝚁𝙳𝙰𝙽 𝙹𝙾𝙴𝙻𝚂𝚃𝙰𝚁 🤖'
+var surl = 'https:/github.com/jamesxtreme/JORDAN-JOELSTAR' // Source URL
+const number = '234905403989'
+var name = '𝕁𝕆ℝ𝔻𝔸ℕ-𝕁𝕆𝔼𝕃𝕊𝕋𝔸ℝ'
 var body = '𝑇𝛩𝑈𝐶𝛨 𝛨𝛯𝑅𝛯'
-var image = 'https://telegra.ph/file/1e60489705c851f74b55e.jpg'
+var image = 'https://telegra.ph/file/5a06979ab4afb8ab7dccb.jpg'
 let text = `╭═══ ━ ━ ━ ━ • ━ ━ ━ ━ ═══♡᭄
-│       「 𝗠𝗬 𝗜𝗡𝗧𝗥𝗢 」
-│ Name      : 𝙹𝙾𝚁𝙳𝙰𝙽 𝙹𝙾𝙴𝙻𝚂𝚃𝙰𝚁
-│ Place       : 𝙻𝙰𝙶𝙾𝚂 𝙽𝙶
-│ Gender    :  𝙼𝙰𝙻𝙴 
-│ Age          : 18_
+│       「 🕷𝕄𝕐 𝕊𝕋𝔸𝕋𝕊🕷」
+│ Name      : 𝕁𝕆ℝ𝔻𝔸ℕ-𝕁𝕆𝔼𝕃𝕊𝕋𝔸ℝ
+│ Place       : 𝕃𝔸𝔾𝕆𝕊, ℕ𝕀𝔾𝔼ℝ𝕀𝔸
+│ Gender    :  𝕄𝔸𝕃𝔼
+│ Age          : 𝔽𝕆ℝ𝔼𝕍𝔼ℝ 𝕐𝕆𝕌ℕ𝔾
 │ Phone     : wa.me/2349054039891
-│ Youtube   : 
-│ Status     : 𝙻𝙸𝙵𝙴 𝚂𝙲𝙸𝙴𝙽𝚃𝙸𝚂𝚃
+│ Channel   : https://whatsapp.com/channel/0029VaCamn3BKfi29OjdbG2P
+│ Status     : 𝕊𝕋𝕌𝔻𝔼ℕ𝕋
 ╰═══ ━ ━ ━ ━ • ━ ━ ━ ━ ═══♡᭄`
+
+
 
 
 
